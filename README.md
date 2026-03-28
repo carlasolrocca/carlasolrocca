@@ -3,11 +3,12 @@ Actualmente estoy estudiando la Tecnicatura en Programación Informática en la 
 
 <h2>Mis proyectos</h2>
 <ul>
-  <li><strong>React</strong> - Proyecto grupal de <a href="https://github.com/carlasolrocca/algo-que-pedir-2025-React">front-end</a> maquetado con Chakra UI que se conecta a un backend desarrollado en Kotlin con Springboot.
+  <li><strong>React</strong> - Proyecto grupal de <a href="https://github.com/carlasolrocca/algo-que-pedir-2025-React">front-end</a> hecho con Typescript y maquetado con Chakra UI que se conecta a un backend desarrollado en Kotlin con Springboot.
   <li><strong>Svelte</strong> - Proyecto grupal de <a href="https://github.com/carlasolrocca/algo-que-pedir-2025-Svelte">front-end</a> hecho con Svelte y maquetado a mano con HTML + CSS que también se conecta al backend desarrollado en Kotlin con Springboot.
   <li><strong>Kotlin</strong> - Proyecto grupal de <a href="https://github.com/carlasolrocca/algo-que-pedir-backend-2025-Algo3"> back-end</a> usando patrones de diseño y Spring Boot.</li>
   <li><strong>C</strong> - Trabajo final individual de <a href="https://github.com/carlasolrocca/tp-laboratorio-de-computacion-2">archivos</a>.</li>
   <li><strong>Python</strong> - Proyecto grupal entrenando a <a href="https://github.com/carlasolrocca/tp-final-mate3">una red neuronal</a> para la predicción de enfermedades cardiovasculares.
+  <li><strong>Python</strong> - Proyecto final grupal de Bases de Datos para un recomendador de películas. Hecho con un backend en <a href="https://github.com/franncoronel/g5-backend/tree/dev">Python</a> y frontend hecho en <a href="https://github.com/franncoronel/g5-frontend/tree/dev">React y Typescript</a>.
   <!--- <li><strong>Wollok</strong> - Desarrollo grupal de un videojuego usando software educativo de OOP.</li>  !-->
 </ul>
 
