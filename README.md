@@ -1,5 +1,5 @@
 <h1 align="center"> Hola, soy Carla Rocca <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> </h1>
-Actualmente estoy estudiando la Tecnicatura en Programación Informática en la UNSAM. En mi dia a dia trabajo con herramientas de BMC Helix ofreciendo un servicio de consultoria a clientes del rubro bancario.
+Actualmente estoy estudiando la Tecnicatura en Programación Informática en la UNSAM. En mi dia a dia trabajo con herramientas de BMC Helix ofreciendo un servicio de consultoria a clientes del rubro bancario. En este momento en la facultad me encuentro desarrollando una aplicación para un trabajo integrador grupal utilizando React+Typescript en el frontend y un backend con Kotlin+Springboot que luego se conectará a una base de datos.
 
 <h2>Mis proyectos</h2>
 <ul>
